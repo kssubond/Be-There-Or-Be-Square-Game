@@ -1393,10 +1393,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pipePrefab: {fileID: 5967620375368642666, guid: 5ff990fbd7d257a4a98dd12086a25a27,
     type: 3}
-  pipePoolSize: 3
+  pipePoolSize: 10
   spawnRate: 2
   pipeMin: 0
   pipeMax: 2.5
+  screenOffset: 0.5
+  camera: {fileID: 1338713735}
 --- !u!82 &1406802273
 AudioSource:
   m_ObjectHideFlags: 0
