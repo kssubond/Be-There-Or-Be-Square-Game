@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5F9B9628-F07A-2607-8435-AA73BA7B0156}</ProjectGuid>
+    <ProjectGuid>{07217613-2381-0FD0-5878-0B232FB40BB6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,39 +63,39 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\NewGame\GameControl.cs" />
-    <Compile Include="Assets\Scripts\NewGame\Highscore.cs" />
-    <Compile Include="Assets\Scripts\NewGame\PipePool.cs" />
-    <Compile Include="Assets\Scripts\NewGame\PipeScoreZone.cs" />
-    <Compile Include="Assets\Scripts\NewGame\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\NewGame\RepeatingBackground.cs" />
-    <Compile Include="Assets\Scripts\NewGame\ScrollingObject.cs" />
+    <Compile Include="Assets\Scripts\GameControl.cs" />
+    <Compile Include="Assets\Scripts\Highscore.cs" />
+    <Compile Include="Assets\Scripts\PipePool.cs" />
+    <Compile Include="Assets\Scripts\PipeScoreZone.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\RepeatingBackground.cs" />
+    <Compile Include="Assets\Scripts\ScrollingObject.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/kssub/BirdGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Programs/Unity/Git/BirdGame/Be-There-Or-Be-Square-Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

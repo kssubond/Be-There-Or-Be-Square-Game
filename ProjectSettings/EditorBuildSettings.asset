@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/newGame.unity
+    path: Assets/Scenes/Birdy.unity
     guid: cf1b11fdd52491f42b055be78b141388
   m_configObjects: {}

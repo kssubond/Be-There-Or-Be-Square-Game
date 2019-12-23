@@ -549,4 +549,4 @@ ScriptsOnlyBuild:
   platform: 9
   scenePathNames:
   - Assets/Scenes/newGame.unity
-  playerPath: D:/Programs/Unity/BirdGame_v0.1
+  playerPath: D:/Programs/Unity/Git/BirdGame/Birdy
