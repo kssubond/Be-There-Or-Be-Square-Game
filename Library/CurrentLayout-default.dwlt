@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 919, y: 494}
   m_MaxSize: {x: 22014, y: 14044}
   vertical: 0
-  controlID: 71
+  controlID: 127
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,8 +136,8 @@ MonoBehaviour:
     y: 0
     width: 320
     height: 720
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -391,9 +391,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.22795045, y: 5.3654823, z: -5.611886}
+    m_Target: {x: -2.1434288, y: 0.27397877, z: -23.927076}
     speed: 2
-    m_Value: {x: -0.22795045, y: 5.3654823, z: -5.611886}
+    m_Value: {x: -2.1434288, y: 0.27397877, z: -23.927076}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -426,9 +426,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.9534025
+    m_Target: 11.963688
     speed: 2
-    m_Value: 10.9534025
+    m_Value: 11.963688
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -447,7 +447,7 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: -0.20879468, y: -0.08788375, z: 0.018843593, w: -0.97382337}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -509,9 +509,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e2310000
-      m_LastClickedID: 12770
-      m_ExpandedIDs: 90f9ffffb4f9ffff44fbffff46320000
+      m_SelectedIDs: 1eeaffff
+      m_LastClickedID: -5602
+      m_ExpandedIDs: 6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -600,7 +600,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -612,7 +612,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 58300000
     m_LastClickedID: 12376
-    m_ExpandedIDs: 00000000f02c00005c2d0000ca2d000014310000
+    m_ExpandedIDs: 00000000a42c0000dc2d00008a2e0000ce300000d0300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,18 +640,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000f02c00005c2d00002c2e0000dc2e000014310000
+    m_ExpandedIDs: ffffffff00000000a42c0000dc2d00008a2e0000ce300000d0300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Birdy
-      m_OriginalName: Birdy
+      m_Name: PlayerMovement
+      m_OriginalName: PlayerMovement
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12144
+      m_UserData: 10834
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
